@@ -1,0 +1,5 @@
+name: Chair
+author: alvin0319
+main: Chair\ChairPlugin
+version: 1.0.0
+api: 4.0.0
